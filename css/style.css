@@ -1,0 +1,55 @@
+.banner img{
+    background-size: cover;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+}
+.banner {
+    padding: 100px;
+    padding-top: 250px;
+    background-color: rgb(224, 217, 204);
+}
+.navbar li{
+    display: inline;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+.navbar{
+    display: flex;
+    
+    background-color: orange;
+    align-items: center;    
+    padding: 10px;
+}
+
+.navbar img{
+    width: 40px;
+    margin-left: 10px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+    margin: 5px;
+}
+
+.border{
+    display: flex;
+    justify-content: left;
+    padding-left: 250px;
+}   
+
+.Khung h2{
+    background-color: orange;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    margin: 10px;
+ }
+
